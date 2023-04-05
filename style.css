@@ -114,6 +114,7 @@ input {
   transition: 0.2s;
   font-family: monospace;
   font-size: 12px;
+  height: 40px;
 }
 
 input:focus{
@@ -138,7 +139,7 @@ button {
   font-weight: 700;
   color: #fff;
   transition: 0.2s;
-
+  height: 40px;
 }
 
 button:hover{
